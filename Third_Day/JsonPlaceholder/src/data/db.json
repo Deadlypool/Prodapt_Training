@@ -1,0 +1,54 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "iPhone 14",
+      "price": 799,
+      "category": "Electronics",
+      "inStock": true
+    },
+    {
+      "id": "2",
+      "name": "Samsung Galaxy S23",
+      "price": 749,
+      "category": "Electronics",
+      "inStock": true
+    },
+    {
+      "id": "3",
+      "name": "Nike Air Max",
+      "price": 120,
+      "category": "Footwear",
+      "inStock": true
+    },
+    {
+      "id": "4",
+      "name": "Adidas Hoodie",
+      "price": 60,
+      "category": "Clothing",
+      "inStock": false
+    },
+    {
+      "id": "5",
+      "name": "Dell XPS 13",
+      "price": 999,
+      "category": "Electronics",
+      "inStock": true
+    },
+    {
+      "id": "6",
+      "name": "Sony Headphones",
+      "price": 199,
+      "category": "Accessories",
+      "inStock": true
+    },
+    {
+      "name": "Test",
+      "price": "200",
+      "category": "Test",
+      "inStock": true,
+      "id": "6c1QXCTrdeU"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}

@@ -1,0 +1,39 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Aman",
+      "mark1": 78,
+      "mark2": 85,
+      "mark3": 90
+    },
+    {
+      "id": 2,
+      "name": "Riya",
+      "mark1": 88,
+      "mark2": 92,
+      "mark3": 81
+    },
+    {
+      "id": 3,
+      "name": "Karan",
+      "mark1": 67,
+      "mark2": 74,
+      "mark3": 70
+    },
+    {
+      "id": 4,
+      "name": "Sneha",
+      "mark1": 91,
+      "mark2": 89,
+      "mark3": 95
+    },
+    {
+      "id": 5,
+      "name": "Arjun",
+      "mark1": 72,
+      "mark2": 68,
+      "mark3": 75
+    }
+  ]
+}
