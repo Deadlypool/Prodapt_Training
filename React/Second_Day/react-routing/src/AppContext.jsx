@@ -3,7 +3,7 @@ import React, {createContext} from 'react';
 export const AppContext = createContext();
 
 
-export const AppProvide = ({children}) => {
+export const AppProvider = ({children}) => {
     const projectTitle = 'React Routing Project';
 
     return (

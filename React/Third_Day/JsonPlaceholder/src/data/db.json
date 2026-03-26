@@ -48,6 +48,13 @@
       "category": "Test",
       "inStock": true,
       "id": "6c1QXCTrdeU"
+    },
+    {
+      "name": "test",
+      "price": "200",
+      "category": "test",
+      "inStock": true,
+      "id": "JVqw_Y3eo9g"
     }
   ],
   "$schema": "./node_modules/json-server/schema.json"
